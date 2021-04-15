@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Font.spritefont</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Square.png</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Meteor.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/OtherBullet.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/OtherSpaceship.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Spaceship.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Target.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Explosion.wav</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Gun.wav</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Hit.wav</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/background.jpg</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/ParticleShader-complete.fx</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/fire.png</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/asteroid4.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/asteroid1.tga</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/p1_wedge.fbx</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/wedge_p1_diff_v1.tga</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/bullet2.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/bullet.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/pea_proj.tga</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Fail.wav</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/LevelComplete.wav</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Music.wav</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Spaceship_V2.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/OtherSpaceship_V2.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/OtherSpaceship_V3.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Spaceship_V3.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Target_V2.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Target_V3.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Bullet_V2.FBX</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/BackgroundGif.gif</File>
+    <File>C:/Users/Danielle/Desktop/CPI311/FinalProject/Content/Background_V2.png</File>
+  </SourceFiles>
+</SourceFileCollection>

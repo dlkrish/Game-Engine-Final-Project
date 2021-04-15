@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Danielle/Desktop/School Stuff Fall 2019/Game Engine/CPI311/Lab05/Content/Torus.fbx</File>
+    <File>C:/Users/Danielle/Desktop/School Stuff Fall 2019/Game Engine/CPI311/Lab05/Content/Square.png</File>
+    <File>C:/Users/Danielle/Desktop/School Stuff Fall 2019/Game Engine/CPI311/Lab05/Content/SimpleShading.fx</File>
+  </SourceFiles>
+</SourceFileCollection>

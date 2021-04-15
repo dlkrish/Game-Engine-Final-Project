@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Danielle/Desktop/CPI311/Assignment4/Content/explosion2.wav</SourceFile>
+  <SourceTime>2019-12-07T21:08:50.8763215-07:00</SourceTime>
+  <DestFile>C:/Users/Danielle/Desktop/CPI311/Assignment4/Content/bin/Windows/explosion2.xnb</DestFile>
+  <DestTime>2019-12-07T22:30:28.3380685-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

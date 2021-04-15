@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Danielle/Desktop/School Stuff Fall 2019/Game Engine/CPI311/Assignmen4/Content/tx0_fire1.wav</SourceFile>
+  <SourceTime>2019-11-12T17:14:28.5693834-07:00</SourceTime>
+  <DestFile>C:/Users/Danielle/Desktop/School Stuff Fall 2019/Game Engine/CPI311/Assignmen4/Content/bin/Windows/tx0_fire1.xnb</DestFile>
+  <DestTime>2019-11-18T17:37:20.6011641-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T08:05:36-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T08:05:36-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
